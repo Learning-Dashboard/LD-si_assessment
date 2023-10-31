@@ -1,5 +1,5 @@
 # LD-si_assessment
-Component that uses Bayesian Networks to estimate the assessment for Strategic Indicators
+Component that uses Bayesian Networks to estimate the assessment for Strategic Indicators.
 
 ## Main Functionality
 This library uses Bayesian Networks for computing Strategic Indicators.
