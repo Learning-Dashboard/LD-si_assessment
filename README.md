@@ -1,13 +1,11 @@
-# qrapids-si_assessment
-Component that uses Bayesian Networks to estimate the assessment for strategic indicators
-
-This component has been created as a result of the Q-Rapids project funded by the European Union Horizon 2020 Research and Innovation programme under grant agreement No 732253.
+# LD-si_assessment
+Component that uses Bayesian Networks to estimate the assessment for Strategic Indicators
 
 ## Main Functionality
 This library uses Bayesian Networks for computing Strategic Indicators.
 
 ## Technologies
-|Property|Description|
+| Property | Description |
 | -------------------- | ---------|
 | Type of component    | Library  |
 | Build                | .jar     |
@@ -20,16 +18,13 @@ This is a Gradle project. You can use any IDE that supports Gradle to build it, 
 
 ```
 # Example: using Gradle wrapper to build with dependencies
-cd qrapids-si_assessment
+cd LD-si_assessment
 gradlew customFatJar
 ```
 After the build is done the JAR file can be found at the __build/libs__ directory
 
 ## Documentation
-You can find the technical documentation of the API [here](https://q-rapids.github.io/qrapids-si_assessment).
-
-## Contributing
-You can find guidelines to contribute to the project in the [Q-Rapids repository](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md).
+You can find the technical documentation of the API [here](https://learning-dashboard.github.io/LD-si_assessment/).
 
 ## Licensing
 This program is free software: you can redistribute it and/or modify 	it under the terms of the GNU General Public License as published by 	the Free Software Foundation, either version 3 of the License, or 	 (at your option) any later version.
@@ -40,6 +35,4 @@ You should have received a copy of the GNU General Public License along with thi
 
 
 ## Contact
-For problems regarding this component, please open an issue in the [issues section](https://github.com/q-rapids/qrapids-si_assessment/issues). You can find some guidelines for submitting issues in the [Q-Rapids repository](https://github.com/q-rapids/q-rapids/blob/master/CONTRIBUTING.md).
-
-For general information, please use the [Q-Rapids project website](http://www.q-rapids.eu/contact).
+For problems regarding this component, please open an issue in the [issues section](https://github.com/Learning-Dashboard/LD-si_assessment/issues).
