@@ -20,7 +20,6 @@ task customFatJar(type: Jar) {
 javadoc {
     source = file('src/main/java/Assessment')
     destinationDir = file('docs/javadoc')
-    options.addStringOption("nonavbar", "-quiet")
 }
 
 repositories {
